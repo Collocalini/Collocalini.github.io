@@ -1,0 +1,397 @@
+<html>
+<head>
+<style>
+
+</style>
+<script>
+
+</script>
+<meta charset='UTF-8' />
+<link href='/static/main.css' rel='stylesheet' type='text/css' />
+<title>Противопопугайный сайт / Never Parrot</title>
+</head>
+<body>
+
+
+<div class='arrow_box'>
+<ul class='arrow_box_ul'>
+<li>
+<span>
+  <img src='/static/logo.jpg' alt='busted parrot' align='top' class='top_l_img' /> 
+
+
+<ul style='display: inline-block;'>
+  <li style='display:inline;font-size: 2.0em;'> Противопопугайный сайт</li>
+  <li style='display:inline;font-size: 1.0em;'> <div> Never Parrot </div> </li>
+  <li style='display:inline;'> <div align='right'> <a href='/archive.html'>Архив</a> &nbsp <a href='/pages/page_faq.html'>FAQ</a></div> </li>
+</ul>
+
+</span>
+</li>
+
+<li>
+<a href='/dippers/dippers_1.html' style='display: inline-block;'>
+   <ul class='arrow_box_dipper_galery'>
+   
+     <li><object type='image/svg+xml' data='/static/must_be_together/site_stapelia_logo/site_stapelia_logo.svg'></object>
+</li>
+   
+     <li><img src='/static/thumbnails/foliage_overuse_t.jpg' />
+</li>
+   
+     <li><img src='/static/thumbnails/twilight_eats_a_bagel_storyboard/twilight_eats_a_bagel_storyboard_0009.jpg' />
+</li>
+   
+     <li><img src='/static/thumbnails/twilight_eats_a_bagel_storyboard/twilight_eats_a_bagel_storyboard_0008.jpg' />
+</li>
+   
+     <li><img src='/static/thumbnails/twilight_eats_a_bagel_storyboard/twilight_eats_a_bagel_storyboard_0007.jpg' />
+</li>
+   
+     <li><img src='/static/thumbnails/twilight_eats_a_bagel_storyboard/twilight_eats_a_bagel_storyboard_0006.jpg' />
+</li>
+   
+     <li><img src='/static/thumbnails/twilight_eats_a_bagel_storyboard/twilight_eats_a_bagel_storyboard_0005.jpg' />
+</li>
+   
+     <li><img src='/static/thumbnails/twilight_eats_a_bagel_storyboard/twilight_eats_a_bagel_storyboard_0004.jpg' />
+</li>
+   
+     <li><img src='/static/thumbnails/twilight_eats_a_bagel_storyboard/twilight_eats_a_bagel_storyboard_0003.jpg' />
+</li>
+   
+     <li><img src='/static/thumbnails/twilight_eats_a_bagel_storyboard/twilight_eats_a_bagel_storyboard_0002.jpg' />
+</li>
+   
+   </ul>
+
+</a>
+</li>
+
+</ul>
+
+</div>
+
+
+
+
+
+
+
+
+<p align='center'> <a href='/post36.html'><img src='/static/where_is_my_bow_top.png' style='width:100%;height:auto;' /></a></p>
+
+
+
+
+
+
+  <div class='divScroll_posts'>
+
+
+<div class='first_post_h'>
+<div id='abstract' align='left'>
+
+   <div style='position:absolute; z-index:1;'> 
+      <object type='image/svg+xml' data='/static/must_be_together/site_stapelia_logo/site_stapelia_logo.svg' style='width:auto; height:5em; opacity: 0.5;'></object>
+   </div>
+
+   <div style='position:relative; z-index:2;'> 
+      <div>
+      Ещё стапелия. Ещё больше маленьких зелёных (и не только) друзей. Фотография нового цветка сделанная 29.08.2015, по клику откроется видео.
+      </div>
+
+
+      <p></p>
+
+      <div>
+      More of stapelia. More of my little green (not only) friends. Here's the photograph of the new blooming flower taken on 29.08.2015, click will open video.
+      </div>
+
+   </div>
+
+</div>
+<a href='/post39.html' style class='read_more' align='center'>Читать дальше / Read more</a> 
+
+
+</div>
+
+
+
+<div class='post_h'>
+  <div id='abstract' align='left'>
+
+<b>18.08.2015</b>
+
+<div>
+Дисней при помощи "Короля льва" хочет <a href='https://www.youtube.com/watch?v=J3HevDh7CE8'>откусить</a> себе <a href='http://desmond48.deviantart.com/art/MLP-Cutie-Mark-Six-310221527'>кусочек</a> <a href='http://logos.wikia.com/wiki/My_Little_Pony?file=My_Little_Pony_G4_logo.svg'>пони</a>. Символично.
+</div>
+
+
+<p></p>
+
+<div>
+Disney calls Lion King to help <a href='https://www.youtube.com/watch?v=J3HevDh7CE8'>bite</a> themselves a <a href='http://desmond48.deviantart.com/art/MLP-Cutie-Mark-Six-310221527'>bit</a> of <a href='http://logos.wikia.com/wiki/My_Little_Pony?file=My_Little_Pony_G4_logo.svg'>the pony</a>. Symbolical.
+</div>
+
+
+</div>
+<a href='/post38.html' style class='read_more' align='center'>Читать дальше / Read more</a> 
+
+
+</div>
+
+
+
+<div class='post_h'>
+  <div id='abstract' align='left'>
+   <div style='position:absolute; z-index:1;'> 
+      <object type='image/svg+xml' data='/static/must_be_together/site_stapelia_logo/site_stapelia_logo.svg' style='width:auto; height:5em; opacity: 0.5;'></object>
+   </div>
+
+   <div style='position:relative; z-index:2;'> 
+      <b>16.08.2015</b>
+
+      <div>
+      Если кому-то интересно, моя <a href='https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BF%D0%B5%D0%BB%D0%B8%D1%8F'>стапелия</a> цветёт.
+      </div>
+
+
+      <p></p>
+
+      <div>
+      If anyone is interested, my <a href='https://en.wikipedia.org/wiki/Stapelia'>stapelia</a> is blooming.
+      </div>
+
+   </div>
+
+</div>
+<a href='/post37.html' style class='read_more' align='center'>Читать дальше / Read more</a> 
+
+
+</div>
+
+
+
+<div class='post_h'>
+  <div id='abstract' align='left'>
+
+
+
+<div>
+Мне одному кажется, что Мерида догадывается кто рисует её волосы в виде чёрных телефонных проводов?
+</div>
+
+
+<p></p>
+
+<div>
+Is that me or does Merida really look like she knows who made her hair look like black telephone wires?
+</div>
+
+
+</div>
+<a href='/post36.html' style class='read_more' align='center'>Читать дальше / Read more</a> 
+
+
+</div>
+
+
+
+<div class='post_h'>
+  <div id='abstract' align='left'>
+
+
+
+<div>
+Приделываю крылья к Твайлайт. Надо отметить, что перья блендер делает отвратительно, а питоновый API для этих целей практически отсутствует(Blender 2.75). Самое обидное это то, что допилят всё это уже когда я запилю свой велосипед для натыкивания перьев. Ай, идите картинку смотрите. 
+</div>
+
+
+<p></p>
+
+<div>
+I'm attaching the wings to Twilight. And Blender makes terrible feathers I must say, and python API for this purpose is practically nonexistent at the moment(Blender 2.75). And what gets me the most is the fact that it will most likely be fixed but only after I have already reinvented the weel. Oh well, go see the picture.
+</div>
+
+
+</div>
+<a href='/post35.html' style class='read_more' align='center'>Читать дальше / Read more</a> 
+
+
+</div>
+
+
+
+<div class='post_h'>
+  <div id='abstract' align='left'>
+
+<div align='center'>
+<a href='/tagged/twilight-eats-a-bagel-storyboard_1.html'>Смотреть раскадровку / Watch the storyboard</a>
+</div>
+
+<p></p>
+
+<div>
+А вот и <a href='/tagged/twilight-eats-a-bagel-storyboard_1.html'>раскадровка</a>, о которой я <a href='/post33.html'>говорил</a>. Сделал 9 страниц из начала истории <a href='http://www.fimfiction.net/story/131687/twilight-eats-a-bagel'>"Твайлайт ест бейгл" (Twilight eats a bagel)</a>.
+</div>
+
+
+<p></p>
+
+<div>
+And here is the <a href='/tagged/twilight-eats-a-bagel-storyboard_1.html'>storyboard</a> I was <a href='/post33.html'>talking about</a>. I've made 9 pages from the beginning of the story <a href='http://www.fimfiction.net/story/131687/twilight-eats-a-bagel'>"Твайлайт ест бейгл" (Twilight eats a bagel)</a>.
+</div>
+
+
+</div>
+<a href='/' style='display:none' class='read_more' align='center'></a> 
+
+
+</div>
+
+
+
+<div class='post_h'>
+  <div id='abstract' align='left'>
+
+
+
+<div>
+Работал над <a href='https://github.com/Collocalini/GenImplicit'>аддоном</a> для Blender-а, попутно соорудил картинку. Прогресс движется, добавляю фичи, закрываю баги. Собираюсь вылизывать функционал в процессе создания тестовых картинок. Есть тут у меня одна раскадровочка, которую я делал ради треннировки, буду брать картинки оттуда и реализовывать при помощи аддона.
+</div>
+
+
+<p></p>
+
+<div>
+Was working on the <a href='https://github.com/Collocalini/GenImplicit'>addon</a> for Blender also made a picture. Progress is moving, I'm adding more features and fixing bugs. To polish a functionality up I'm going to go through making of series of test pictures. I have the storyboard I made as an exercise lying around, so I'm going to take panels from there and remake them in 3D using my addon.
+</div>
+
+
+</div>
+<a href='/post33.html' style class='read_more' align='center'>Читать дальше / Read more</a> 
+
+
+</div>
+
+
+
+<div class='post_h'>
+  <div id='abstract' align='left'>
+
+
+
+<div>
+Понифицировал XKCD: Sky. Процесс шёл туго, несколько версий отправились в мусорку. 
+</div>
+
+<p></p>
+
+<div>
+Ponified XKCD: Sky. It was more difficult then I expected, had to start over a few times. 
+</div>
+
+</div>
+<a href='/post32.html' style class='read_more' align='center'>Читать дальше / Read more</a> 
+
+
+</div>
+
+
+
+<div class='post_h'>
+  <div id='abstract' align='left'>
+
+
+
+<div>
+<b>Технические обновления на сайте</b> 
+</div>
+<div>
+Вероятно вы уже заметили иконку ковшика в правом верхнем углу. Нажав на неё можно почерпнуть картинки, которые я выкладывал, а также узнать в каких постах они использовались. 
+</div>
+
+<p></p>
+
+<div>
+<b>Technical updates on site</b> 
+</div>
+<div>
+You have probably noticed the icon of a dipper in the top right corner. When pressed it will lead you into the dipper section, where you can find images i posted and see in what posts they were used.
+</div>
+
+</div>
+<a href='/' style='display:none' class='read_more' align='center'></a> 
+
+
+</div>
+
+
+
+<div class='post_h'>
+  <div id='abstract' align='left'>
+
+
+
+<div>
+Решил выложить ещё одну старую работу. Фанарт на Филипа Пулмана. Это летательный аппарат из веленной Тёмных Начал. Описания в книжке донельзя скупы, но я старался им точно следовать и быть реалистичным.
+</div>
+<div>
+Действие на картинке происходит во время финальной битвы в конце третьей книжки.
+</div>
+
+<p></p>
+
+<div>
+Today I felt like posting another one of my old works. A Philip Pullman fanart this time. This is a flying machine from His Dark Materials universe. Descriptions in the book are very scarce but I tried to follow them as close as possible while staying realistic.  
+</div>
+<div>
+Action on the picture takes place during the final battle in the end of the third book.
+</div>
+
+</div>
+<a href='/post30.html' style class='read_more' align='center'>Читать дальше / Read more</a> 
+
+
+</div>
+
+
+
+
+	
+</div>  
+
+
+
+
+
+
+
+
+<div class='bottom'>
+
+<span style>
+  
+    <a href='/archive.html' class='archive_button' align='left'>Архив / Archive</a> 
+
+</span>
+
+<span class='top_r'>
+  <a href='/pages/page_contact_me.html' align='right'>Связаться со мной / Contact me</a>
+</span>
+
+</div>
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
